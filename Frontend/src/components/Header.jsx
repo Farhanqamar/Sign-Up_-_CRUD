@@ -12,7 +12,7 @@ function Header() {
    <header>
     <nav>
     <div>
-      <h1>My Header</h1>      
+      <h1>My Header</h1>
     </div>
 
     <div>
